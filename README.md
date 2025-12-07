@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rohith Kumar 👋
 
 ## 🚀 Web3 Full Stack Developer | 5+ Years Experience
 
@@ -74,6 +74,7 @@ Trading Systems:     Copy trading bots, Signal pumping, MT4/MT5 indicators
 DeFi Protocols:      AMMs, DEX aggregators, Perpetual trading, Vaults
 Advanced Patterns:   Diamond Facet (EIP-2535), Intent-Solver architecture
 Market Making:       Delegated order placement, PnL distribution, CLOB
+Cross-Chain Tokens:  OFT (Omnichain Fungible Tokens), OFT Adapters (EVM & Aptos)
 ```
 
 ---
@@ -85,6 +86,8 @@ Built production cross-chain aggregators integrating:
 - **Wormhole**, **LayerZero**, **Stargate**, **CCTP v1/v2**
 - Bridging between **EVM chains**, **Solana**, **Aptos**, and **Sui**
 - Intent-solver architecture for Aptos and Sui ecosystems
+- **OFT (Omnichain Fungible Tokens)** and **OFT Adapters** for EVM and Aptos
+- Cross-chain token standards and implementations
 
 ### 💹 DeFi & Trading Systems
 - **Perpetual Trading Platform** on Aptos CLOB
@@ -131,6 +134,9 @@ Built production cross-chain aggregators integrating:
 - Wormhole, LayerZero, Stargate, CCTP integration
 - Asset bridging between Aptos, Solana, and EVM chains
 - Multi-protocol aggregation layer
+- **OFT (Omnichain Fungible Tokens)** implementation
+- **OFT Adapters** for existing tokens on EVM and Aptos
+- Cross-chain token standard development
 
 ### Move Ecosystem (Aptos & Sui)
 **Current Focus: Advanced DeFi Protocols**
@@ -149,7 +155,7 @@ Built production cross-chain aggregators integrating:
 
 ## 🎯 Featured Projects
 
-### 🌉 [Cross-Chain Aggregator v2](https://github.com/yourusername/crosschain-aggregator)
+### 🌉 [Cross-Chain Aggregator v2]
 Universal bridge aggregator supporting Wormhole, LayerZero, Stargate, and CCTP v2
 - ✅ Multi-protocol integration (4+ bridge protocols)
 - ✅ Cross-chain asset transfers (EVM, Solana, Aptos, Sui)
@@ -160,7 +166,7 @@ Universal bridge aggregator supporting Wormhole, LayerZero, Stargate, and CCTP v
 
 ---
 
-### 💹 [Aptos Perpetual Trading Platform](https://github.com/yourusername/aptos-perps)
+### 💹 [Aptos Perpetual Trading Platform]
 Decentralized perpetual futures exchange built on Aptos CLOB
 - ✅ Central Limit Order Book (CLOB) integration
 - ✅ Leveraged trading functionality
@@ -171,7 +177,7 @@ Decentralized perpetual futures exchange built on Aptos CLOB
 
 ---
 
-### 🏦 [Aptos Vault Protocol](https://github.com/yourusername/aptos-vault)
+### 🏦 [Aptos Vault Protocol]
 Institutional-grade vault with delegated market making
 - ✅ Token collection and shared token minting
 - ✅ Delegated order placement to market makers
@@ -182,7 +188,7 @@ Institutional-grade vault with delegated market making
 
 ---
 
-### 🔄 [Solana DEX Aggregator](https://github.com/yourusername/solana-dex-aggregator)
+### 🔄 [Solana DEX Aggregator]
 Comprehensive DEX aggregator for Solana ecosystem
 - ✅ Integration with all major Solana DEXs
 - ✅ Optimal routing algorithm
@@ -193,7 +199,7 @@ Comprehensive DEX aggregator for Solana ecosystem
 
 ---
 
-### 💎 [Diamond Facet Implementation (EIP-2535)](https://github.com/yourusername/diamond-pattern)
+### 💎 [Diamond Facet Implementation (EIP-2535)]
 Modular smart contract architecture using Diamond standard
 - ✅ Upgradeable contract system
 - ✅ Multi-chain deployment (Ethereum, Polygon, Avalanche, Arbitrum, zkSync)
@@ -204,7 +210,7 @@ Modular smart contract architecture using Diamond standard
 
 ---
 
-### 🌐 [Sui Intent Solver & Paymaster](https://github.com/yourusername/sui-intent-solver)
+### 🌐 [Sui Intent Solver & Paymaster]
 Gasless transaction system with intent-solving capabilities
 - ✅ Paymaster implementation for sponsored transactions
 - ✅ Cross-chain intent resolution
@@ -215,7 +221,19 @@ Gasless transaction system with intent-solving capabilities
 
 ---
 
-### 🖼️ [NFT Bridge (EVM ↔ Neon Labs)](https://github.com/yourusername/nft-bridge-neon)
+### 🌐 [Omnichain Token Implementation (OFT)]
+LayerZero OFT standard implementation for seamless cross-chain token transfers
+- ✅ OFT token contracts for EVM chains
+- ✅ OFT Adapter for existing tokens
+- ✅ Aptos OFT implementation in Move
+- ✅ Cross-chain messaging and token bridging
+- ✅ Rate limiting and security controls
+
+**Tech:** Solidity, Move (Aptos), LayerZero, Hardhat
+
+---
+
+### 🖼️ [NFT Bridge (EVM ↔ Neon Labs)]
 Research project for cross-ecosystem NFT transfers
 - ✅ EVM to Solana NFT bridging via Neon
 - ✅ Assembly-level optimizations
@@ -226,7 +244,7 @@ Research project for cross-ecosystem NFT transfers
 
 ---
 
-### 🤖 [Copy Trading & Signal Infrastructure](https://github.com/yourusername/trading-infrastructure)
+### 🤖 [Copy Trading & Signal Infrastructure]
 High-performance trading automation system
 - ✅ MT4/MT5 indicator development
 - ✅ Copy trading bot (C implementation)
@@ -237,7 +255,7 @@ High-performance trading automation system
 
 ---
 
-### 📊 [Volume Tracking Server](https://github.com/yourusername/volume-server)
+### 📊 [Volume Tracking Server]
 Analytics server for DeFi protocol metrics
 - ✅ Real-time volume calculation
 - ✅ DeFiLlama integration
@@ -245,14 +263,6 @@ Analytics server for DeFi protocol metrics
 - ✅ Automated reporting
 
 **Tech:** Node.js, TypeScript, PostgreSQL, Redis
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
@@ -317,11 +327,11 @@ Analytics server for DeFi protocol metrics
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithkumar0369&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithkumar0369&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohithkumar0369&theme=radical&hide_border=true)
 
 ---
 

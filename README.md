@@ -2,7 +2,7 @@
 
 **Web3 Full Stack Developer** | 5+ Years Building Cross-Chain Infrastructure & DeFi
 
-Specializing in multi-chain ecosystems: EVM, Solana, Aptos, and Sui. I build production-grade smart contracts, bridges, and DeFi protocols.
+Specializing in multi-chain ecosystems: Arbitrum and other EVMs, Solana, Aptos, and Sui. I build production-grade smart contracts, bridges, and DeFi protocols.
 
 ---
 

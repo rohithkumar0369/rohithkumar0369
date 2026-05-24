@@ -56,7 +56,7 @@ Specializing in multi-chain ecosystems: EVM, Solana, Aptos, and Sui. I build pro
 
 ## 🌱 Currently Building
 
-- Aptos Perpetual DEX & Vault Protocol
+- Perpetual DEX & Vault Protocol
 - CCTP v2 integrations
 - Cross-chain intent infrastructure
 
